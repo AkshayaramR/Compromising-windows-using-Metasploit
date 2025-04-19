@@ -39,13 +39,15 @@ Open terminal and try execute some kali linux commands
 
 ### OUTPUT:
 
-![alt text](<win hack.png>)
+![Screenshot 2025-04-19 140607](https://github.com/user-attachments/assets/ba478ca6-bdbd-43e7-868d-c4a250c49447)
+
 
 ```python3 -m http.server 5678```
 
 ### OUTPUT:
 
-![alt text](host.png)
+![image](https://github.com/user-attachments/assets/77693dcc-0ff9-410d-aaae-d6e90ecfe1c4)
+
 
 ## RESULT:
 The Metasploit framework is  used to compromise windows and is examined successfully.
